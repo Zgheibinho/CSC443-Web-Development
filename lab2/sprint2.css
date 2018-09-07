@@ -4,10 +4,15 @@ header, footer{
     font-size: 20;
 }
 
-#flexcontainer{
+#flex-container{
     display: flex;
-    border: 5px solid black;
-    flex-direction: column;
-    justify-content: space-between;
-    width:10%;
+    align-items: space-around;
+}
+div div{
+    border:2px solid black;
+}
+img{
+    width: 90%;
+    height: 30%;
+
 }
