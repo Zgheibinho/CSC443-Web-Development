@@ -1,4 +1,4 @@
-var first = document.getElementById("pass1")
+var first = document.getElementById("pass1");
 var first = document.getElementById("pass1");
 var second = document.getElementById("pass2");
 var button = document.getElementById("submit");
